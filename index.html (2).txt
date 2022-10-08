@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>الصفحة الثانية</title>
+    </head>
+
+    <body>
+        <img src="ARK.jpg" height="300px" width="300px" alt="">
+
+
+        
+        <br>
+            <a href="index.html">اضغط للانتقال إلى الصفحة الثانية</a>
+        <br>
+
+
+        <!-- تاريخ اليوم: 8/10/2022 -->
+
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FW9vsrPWujI" allowfullscreen>
+        </iframe>
+
+    </body>
+</html>
